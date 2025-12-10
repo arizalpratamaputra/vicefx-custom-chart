@@ -13,16 +13,6 @@ A clean and self-contained demonstration of a **custom high-performance candlest
 
 This version is intentionally simplified and cleaned for professional review, derived from a much larger proprietary chart system built for **VICEFX**.
 
----
-
-## 📸 Preview
-
-> *(Insert your screenshot or GIF here)*  
-> Example idea:  
-> - `preview/showcase.png`  
-> - `preview/live-animation.gif`
-
----
 
 ## 🚀 Features
 
