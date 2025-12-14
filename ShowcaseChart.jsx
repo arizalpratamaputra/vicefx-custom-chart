@@ -1,18 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { createChart } from "lightweight-charts";
 
-/**
- * ============================================================
- *  SHOWCASE CHART (OPTION A)
- *  Clean version of your custom chart logic:
- *  - synthetic OHLC generator
- *  - micro-tick animation
- *  - ghost-candle prediction
- *  - custom overlay (grid, labels, last price line)
- *  - lightweight-charts as renderer
- * ============================================================
- */
-
 const ShowcaseChart = () => {
   // --- REFS ---
   const chartRef = useRef(null);
